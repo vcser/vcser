@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on full stack projects
-- 📫 How to reach me vcser2018@inf.udec.cl
+- 📫 How to reach me vicentecser@gmail.com
 
 <!---
 vcser/vcser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
