@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vcser
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me vicentecser@gmail.com
 
